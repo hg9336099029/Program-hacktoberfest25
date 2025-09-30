@@ -1,8 +1,8 @@
-# 🚀 Interesting Programs Hacktoberfest 2024 🦥
+# 🚀 Interesting Programs Hacktoberfest 2025
 
-Welcome to the **Interesting Programs Hacktoberfest 2024** repository! 👨‍💻👩‍💻
+Welcome to the **Interesting Programs Hacktoberfest 2025** repository! 👨‍💻👩‍💻
 
-This repository is open to contributions from developers all over the world as part of **Hacktoberfest 2024**. We are accepting **interesting programs** that showcase unique ideas, algorithms, or cool tricks across multiple programming languages. 🧑‍💻
+This repository is open to contributions from developers all over the world as part of **Hacktoberfest 2025**. We are accepting **interesting programs** that showcase unique ideas, algorithms, or cool tricks across multiple programming languages. 🧑‍💻
 
 ## 📝 Contribution Guidelines
 
@@ -70,6 +70,12 @@ Let’s make coding fun and impactful during Hacktoberfest! 🚀💻
 
 ## 🤝 **Contributors**
 This project is open to contributions from people around the globe. Thanks to everyone who has contributed to making this a fantastic learning resource! 😊
+<a href="https://github.com/chetannihith/Program-hacktoberfest25/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=chetannihith/Program-hacktoberfest25" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 
 ---
 
