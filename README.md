@@ -70,6 +70,7 @@ Let’s make coding fun and impactful during Hacktoberfest! 🚀💻
 
 ## 🤝 **Contributors**
 This project is open to contributions from people around the globe. Thanks to everyone who has contributed to making this a fantastic learning resource! 😊
+
 <a href="https://github.com/chetannihith/Program-hacktoberfest25/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=chetannihith/Program-hacktoberfest25" />
 </a>
